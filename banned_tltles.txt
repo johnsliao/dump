@@ -740,7 +740,6 @@ Iceweasel
 iNet Browser
 Internet Explorer
 iRider
-Iron
 K-Meleon
 K-Ninja
 Kapiko
@@ -750,7 +749,6 @@ KKman
 KMLite
 Konqueror
 LeechCraft
-Links
 Lobo
 lolifox
 Lorentz
@@ -780,16 +778,13 @@ QtWeb Internet Browser
 Rekonq
 retawq
 RockMelt
-Safari
 FURminator
 SeaMonkey
 Shiira
 Shiretoko
 Sleipnir
 SlimBrowser
-Stainless
 Sundance
-Sunrise
 Sylera
 Tencent Traveler
 TenFourFox
