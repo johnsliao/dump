@@ -706,7 +706,6 @@ Camino
 Charon
 Cheshire
 Chimera
-Chrome
 ChromePlus
 Classilla
 CometBird
@@ -718,7 +717,6 @@ Deepnet Explorer
 DeskBrowse
 Dillo
 Dooble
-Edge
 Element Browser
 Elinks
 Enigma Browser
@@ -728,9 +726,6 @@ Escape
 Firebird
 Firefox
 Fireweb Navigator
-Flock
-Fluid
-Galaxy
 Galeon
 GranParadiso
 GreenBrowser
@@ -781,9 +776,6 @@ Orca
 Oregano
 osb-browser
 Palemoon
-Phoenix
-Pogo
-Prism
 QtWeb Internet Browser
 Rekonq
 retawq
@@ -798,7 +790,6 @@ SlimBrowser
 Stainless
 Sundance
 Sunrise
-surf
 Sylera
 Tencent Traveler
 TenFourFox
