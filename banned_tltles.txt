@@ -6,6 +6,7 @@ DEWALT
 Dymatize
 Magic Bullet
 Atlantis
+GMDdecals
 Gerber
 KitchenAid
 Stander
