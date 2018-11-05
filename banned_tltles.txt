@@ -5,6 +5,7 @@ LaserMax
 Weaver AR
 StarMark
 Reiko
+Chemours
 Magic Wand
 GOTHAM STEEL
 TEMPUR-Seat
