@@ -4,6 +4,7 @@ Hydro Flask
 Tonino
 Krytox
 Egyptian Cotton
+Kasa
 Head & Shoulders
 LaserMax
 Weaver AR
@@ -19,6 +20,7 @@ Coax Collar
 Thule
 PopSockets:
 PopSockets
+Collapsible Grip
 Precious Moments
 TEMPUR-Lumbarcushion,
 TEMPUR-Lumbarcushion
