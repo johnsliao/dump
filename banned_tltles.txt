@@ -4,6 +4,7 @@ Hydro Flask
 Tonino
 Cuchina
 BREG
+Honest Kitchen
 Krytox
 Egyptian Cotton
 Kasa
@@ -12,6 +13,7 @@ LaserMax
 Weaver AR
 StarMark
 Spot Nails
+Rapdom
 Reiko
 Chemours
 Nutrex
