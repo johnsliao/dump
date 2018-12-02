@@ -4,6 +4,7 @@ Hydro Flask
 Tonino
 Cuchina
 BREG
+Performix
 Honest Kitchen
 Krytox
 Egyptian Cotton
