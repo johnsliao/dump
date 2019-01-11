@@ -4,6 +4,7 @@ Hydro Flask
 Tonino
 Petmate
 Chuckit!
+NOVICA
 Swing Set Stuff
 Perri's
 Dewey
