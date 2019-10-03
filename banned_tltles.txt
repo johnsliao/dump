@@ -3,6 +3,7 @@ Lincoln Electric
 Innovo
 Kenu
 Vaunn
+Blowgun
 Fleshlight
 Adafruit
 Proctor Silex
