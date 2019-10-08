@@ -3,6 +3,7 @@ Lincoln Electric
 Innovo
 Kenu
 Vaunn
+Catit
 Blowgun
 Fleshlight
 Adafruit
