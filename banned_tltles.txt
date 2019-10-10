@@ -5,6 +5,7 @@ Kenu
 Vaunn
 Catit
 Blowgun
+2XU
 Fleshlight
 Adafruit
 Proctor Silex
