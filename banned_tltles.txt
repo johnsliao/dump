@@ -17,6 +17,7 @@ Adafruit
 Proctor Silex
 Sennheiser
 Earth Mama
+X3
 Venum
 Coaster Fine Furniture
 GLOVEWORKS
