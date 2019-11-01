@@ -3,6 +3,7 @@ Lincoln Electric
 Innovo
 Kenu
 Sof
+Littmann
 Harbinger
 BottleKeeper
 Vaunn
