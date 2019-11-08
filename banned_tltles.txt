@@ -5,6 +5,7 @@ Kenu
 Sof
 Littmann
 Harbinger
+CHI
 BottleKeeper
 Vaunn
 Vapur
