@@ -4,6 +4,7 @@ Respirator
 Dust Mask
 Logitech
 DALSTRONG
+Kyocera
 Audio-Technica
 Germicidal
 Hand Sanitizer
