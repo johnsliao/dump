@@ -1,6 +1,7 @@
 OXO
 WaterWipes
 Hario
+Kurgo
 Respirator
 Inter-Fab
 Fill-Rite
