@@ -6,6 +6,7 @@ Respirator
 Braun
 Inter-Fab
 Fill-Rite
+V-MODA
 TotalBoat
 Russell Hobbs
 Best Friends
@@ -24,6 +25,7 @@ LifeSign
 Kyocera
 Bumkins
 High Impact Rigid
+TriggerPoint
 Fossil
 Audio-Technica
 Nicorette
